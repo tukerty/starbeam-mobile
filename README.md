@@ -28,9 +28,7 @@
 <h4 align="center">Dynamic highlighting</h4>
 
 <p align="center">
-
-![screenshot](https://raw.githubusercontent.com/tukerty/starbeam-mobile/master/images/preview/m_anim1.gif)
-
+    <img src="https://raw.githubusercontent.com/tukerty/starbeam-mobile/master/images/preview/m_anim1.gif">
 </p>
 
 <h4 align="center">Page preloading</h4>
