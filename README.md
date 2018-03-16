@@ -25,20 +25,20 @@
 
 ## Key Features
 
-<h4 align="center">Horisontal scrolling</h4>
+<h4 align="center">Dynamic highlighting</h4>
 
-![screenshot](https://raw.githubusercontent.com/tukerty/starbeam-desktop/master/images/preview/anim1.gif)
+![screenshot](https://raw.githubusercontent.com/tukerty/starbeam-mobile/master/images/preview/m_anim1.gif)
 
 
 <h4 align="center">Page preloading</h4>
 
-![screenshot](https://raw.githubusercontent.com/tukerty/starbeam-desktop/master/images/preview/anim2.gif)
+![screenshot](https://raw.githubusercontent.com/tukerty/starbeam-mobile/master/images/preview/m_anim2.gif)
 
 
 
 <h4 align="center">Callback request</h4>
 
-![screenshot](https://raw.githubusercontent.com/tukerty/starbeam-desktop/master/images/preview/anim3.gif)
+![screenshot](https://raw.githubusercontent.com/tukerty/starbeam-mobile/master/images/preview/m_anim3.gif)
 
 ## Technologies
 
@@ -51,15 +51,14 @@ jQuery => 2.2.2
 
 This software uses code from several open source packages.
 
-- [jScrollPane](http://jscrollpane.kelvinluck.com/)
 - [jQuery Mask Plugin](https://igorescobar.github.io/jQuery-Mask-Plugin/)
 - [FontAwesome](https://github.com/components/font-awesome)
-- [jQuery Mouse Wheel Plugin](https://github.com/jquery/jquery-mousewheel)
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer/)
 - [TimeHelper](https://github.com/korytoff/PHP-TimeHelper)
 
 ## Related
 
+- [Starbeam Desktop](https://github.com/tukerty/starbeam-desktop/)
 
 ## License
 
