@@ -33,13 +33,16 @@
 
 <h4 align="center">Page preloading</h4>
 
-![screenshot](https://raw.githubusercontent.com/tukerty/starbeam-mobile/master/images/preview/m_anim2.gif)
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/tukerty/starbeam-mobile/master/images/preview/m_anim2.gif">
+</p>
 
 
 <h4 align="center">Callback request</h4>
 
-![screenshot](https://raw.githubusercontent.com/tukerty/starbeam-mobile/master/images/preview/m_anim3.gif)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/tukerty/starbeam-mobile/master/images/preview/m_anim3.gif">
+</p>
 
 ## Technologies
 
