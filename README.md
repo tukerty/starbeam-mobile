@@ -2,7 +2,7 @@
   <br>
   <a href="https://starbeam.ru"><img src="https://starbeam.ru/images/ghlog2.png" alt="Starbeam" width="200"></a>
   <br>
-  Starbeam desktop
+  Starbeam Mobile
   <br>
 </h1>
 
