@@ -47,6 +47,8 @@
 ## Technologies
 
 ```bash
+HTML5
+CSS3
 PHP => 5.2
 jQuery => 2.2.2
 ```
