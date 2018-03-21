@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/jQuery-%3E%3D%202.2.2-orange.svg" alt="jquery">
 	<img src="https://img.shields.io/badge/Contributions%20-welcome-green.svg">
 	<img src="https://img.shields.io/badge/License%20-MIT-yellow.svg">
+	<a href="https://codeclimate.com/github/tukerty/starbeam-mobile/maintainability"><img src="https://api.codeclimate.com/v1/badges/97bf32e5aae63484c745/maintainability" /></a>
 </p>
 
 <p align="center">
